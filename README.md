@@ -1,6 +1,6 @@
 # latihan
 Test aja
-
+jadi gini
 
 data baru
 
